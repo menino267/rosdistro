@@ -2153,6 +2153,12 @@ repositories:
       url: https://github.com/OTL/cv_camera.git
       version: master
     status: developed
+  dandan-hwconfig:
+    source:
+      type: git
+      url: https://github.com/menino267/dandan-hwconfig.git
+      version: master
+    status: developed
   darknet_ros:
     doc:
       type: git
